@@ -1,18 +1,16 @@
 # app-dev
 My first repository
 
-# feat: add information about *The Notebook* (2004)
+# feat: add information about The Notebook (2004)
 
-## 📖 Description
+## Description
 
-Added an overview of **The Notebook**, a romantic drama film directed by **Nick Cassavetes** and based on the novel by **Nicholas Sparks**.
+Added information about *The Notebook*, a romantic drama directed by Nick Cassavetes and based on the novel by Nicholas Sparks.
 
----
+## Movie Information
 
-## 🎬 Movie Information
-
-| Field | Value |
-|---------|---------|
+| Field | Details |
+|---|---|
 | Title | The Notebook |
 | Release Year | 2004 |
 | Genre | Romance, Drama |
@@ -20,65 +18,49 @@ Added an overview of **The Notebook**, a romantic drama film directed by **Nick 
 | Based On | The Notebook by Nicholas Sparks |
 | Runtime | 123 minutes |
 
----
+## Story Summary
 
-## ✨ Story Summary
+The story follows Noah Calhoun and Allie Hamilton, two young lovers from different social backgrounds who fall in love during the summer of the 1940s.
 
-The story follows **Noah Calhoun** and **Allie Hamilton**, two young lovers from different social classes who fall deeply in love during a summer in the 1940s.
+Despite family disagreements, war, and years of separation, they continue to hold on to their love.
 
 > "It wasn't over, it still isn't over."
 
-Despite family opposition, war, and years of separation, their love survives the test of time.
-
----
-
-## 🎭 Main Characters
+## Main Characters
 
 ### Noah Calhoun
 - Hardworking and passionate
 - Deeply in love with Allie
-- Never gives up on their relationship
+- Determined to keep their relationship alive
 
 ### Allie Hamilton
 - Intelligent and artistic
 - Comes from a wealthy family
-- Torn between love and expectations
+- Struggles between her feelings and family expectations
 
----
+## Key Themes
 
-## 📋 Key Themes
+- Love and commitment
+- Memory and identity
+- Time and destiny
+- Personal choice
 
-- ❤️ Love and Commitment
-- 🧠 Memory and Identity
-- ⏳ Time and Destiny
-- 🎨 Personal Choice
-
----
-
-## ✅ Notable Features
+## Notable Features
 
 - [x] Based on a bestselling novel
-- [x] Iconic romance film
-- [x] Memorable performances by Ryan Gosling and Rachel McAdams
+- [x] One of the well-known romantic drama films
+- [x] Features Ryan Gosling and Rachel McAdams
 - [ ] Watch the movie
 - [ ] Read the original novel
 
----
+## Famous Scene
 
-## 📸 Famous Scene
+The rain scene, where Noah and Allie reunite and kiss, is one of the most memorable moments in the film.
 
-The rain kiss scene between Noah and Allie is considered one of the most iconic moments in romantic film history.
-
----
-
-## 🏆 Why People Love This Movie
+## Why People Love This Movie
 
 1. Emotional storytelling
-2. Strong character development
-3. Memorable quotes
-4. Powerful ending
-5. Timeless romance
-
----
-
-#
+2. Well-developed characters
+3. Memorable dialogue
+4. A powerful ending
+5. A story about lasting love
